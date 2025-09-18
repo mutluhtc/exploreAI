@@ -8,7 +8,15 @@ Interactive Jupyter notebooks to understand and play with the concepts:
 - [PCA Notebook](notebooks/pca.ipynb)  
 
 ## 🎯 Goal  
-Keep things **simple, clear, and hands-on**, so anyone curious about ML can follow along.  
+Keep things **simple, clear, and hands-on**, while also explaining **the math behind the methods**.  
+A basic understanding of **calculus and linear algebra** will help you follow along.
 
 ## 🚀 Coming Next  
 - More tutorials on ML & math concepts  
+
+## ⚙️ Requirements  
+- Python 3.11.0  
+
+Install dependencies with:  
+```bash
+pip install -r requirements.txt
