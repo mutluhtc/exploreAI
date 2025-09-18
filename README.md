@@ -5,11 +5,11 @@ I’ll be sharing step-by-step tutorials, code examples, and intuition-driven ex
 
 
 ## 📓 Notebooks
-Jupyter notebooks to play with the concepts:  
+Jupyter notebooks to understand and play with the concepts:  
 - [PCA Notebook](notebooks/pca.ipynb)  
 
 ## 🎯 Goal
-Keep things simple, clear, and hands-on — so anyone curious about ML can follow along.  
+Keep things simple, clear, and hands-on, so anyone curious about ML can follow along.  
 
 ---
 
