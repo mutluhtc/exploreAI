@@ -1,6 +1,6 @@
-# 🌱 Explore ML  
+# 🌱 Explore AI  
 
-Welcome! This repo is my space to explore topics in **Machine Learning, Math, and Data Science**.  
+Welcome! This repo is my space to explore topics in **AI, Math, and Data Science**.  
 I’ll be sharing step-by-step tutorials, code examples, and intuition-driven explanations as I learn and experiment.  
 
 
