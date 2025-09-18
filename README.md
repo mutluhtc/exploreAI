@@ -5,7 +5,7 @@ Here you’ll find **step-by-step tutorials, code examples, and explanations**.
 
 ## 📓 Notebooks  
 Interactive Jupyter notebooks to understand and play with the concepts:  
-- [PCA Notebook](notebooks/pca.ipynb)  
+- [PCA Notebook](https://github.com/mutluhtc/exploreAI/blob/main/notebooks/PCA.ipynb)  
 
 ## 🎯 Goal  
 Keep things **simple, clear, and hands-on**, while also explaining **the math behind the methods**.  
