@@ -1,16 +1,14 @@
 # 🌱 Explore AI  
 
-Welcome! This repo is my space to explore topics in **AI, Math, and Data Science**.  
-I’ll be sharing step-by-step tutorials, code examples, and intuition-driven explanations as I learn and experiment.  
+Welcome! This is my repo to explore topics in **AI, Math, and Data Science**.  
+Here you’ll find **step-by-step tutorials, code examples, and explanations**.  
 
-
-## 📓 Notebooks
-Jupyter notebooks to understand and play with the concepts:  
+## 📓 Notebooks  
+Interactive Jupyter notebooks to understand and play with the concepts:  
 - [PCA Notebook](notebooks/pca.ipynb)  
 
-## 🎯 Goal
-Keep things simple, clear, and hands-on, so anyone curious about ML can follow along.  
+## 🎯 Goal  
+Keep things **simple, clear, and hands-on**, so anyone curious about ML can follow along.  
 
----
-
-✨ Stay tuned as I keep adding new explorations!
+## 🚀 Coming Next  
+- More tutorials on ML & math concepts  
