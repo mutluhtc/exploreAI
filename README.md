@@ -8,6 +8,7 @@ Interactive Jupyter notebooks to understand and play with the concepts:
 - [PCA Notebook](https://github.com/mutluhtc/exploreAI/blob/main/notebooks/PCA.ipynb)  
 - [UMAP Notebook](https://github.com/mutluhtc/exploreAI/blob/main/notebooks/UMAP.ipynb)
 - [t-SNE Notebook](https://github.com/mutluhtc/exploreAI/blob/main/notebooks/tSNE.ipynb)
+- [Comparison PCA vs UMAP vs t-SNE notebook](https://github.com/mutluhtc/exploreAI/blob/main/notebooks/comparison_PCA_UMAP_tSNE.ipynb)
 
 ## 🎯 Goal  
 Keep things **simple, clear, and hands-on**, while also explaining **the math behind the methods**.  
